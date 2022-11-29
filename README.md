@@ -1,7 +1,9 @@
+Online Matlab: https://matlab.mathworks.com
+
 # **EEE 3110** 
 |Class|Date|Topics|:link:|Report|images|Extra information|
 |:-----:|:------:|:-----:|:-----:|:-----:|-----:|-----:|
-|C1|29/11/2022| lab01 |[:notebook_with_decorative_cover:](https://www.protectedtext.com/matlab)|.m file|image|extra|
+|C1|29/11/2022| special_characters , Example01  |[:notebook_with_decorative_cover:](https://www.protectedtext.com/matlab)|[Exercise 1 , 2 , 3 , 4]()]|[special_characters](https://user-images.githubusercontent.com/64752426/204579603-923d5d89-38f6-4579-85ba-2b408571818f.png) , [example01](https://user-images.githubusercontent.com/64752426/204623171-95816a91-fe79-4100-b0f9-45a6df94f25f.png) |extra|
 
 
 
